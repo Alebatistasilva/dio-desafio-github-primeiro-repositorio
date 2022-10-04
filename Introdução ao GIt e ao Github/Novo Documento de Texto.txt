@@ -1,2 +1,18 @@
 Link para dowload do git: https://git-scm.com/downloads
+
 O Git bash é um terminal extendido para otimizar o uso do Git.
+
+- Comandos para enviar um comit:
+
+* No referido arquivo -> click com o botão direito e escolha: | GitBash Here |  (Abre o gitbash no referido arquivo)
+
+* Dentro do Gitbash -> Comando:  | git status |  (Mostra o estatus do arquivo)
+
+                   -> Comando:  | git add . |   (Adiciona o arquivo no Git)
+                   
+                   -> Comando:  | git commit -m |  "comentario..."  (Insere um comentario para o comit)
+                   
+                   -> Comando:  | git status |   (confere a adiçaõ do arquivo e pede o push)
+                   
+                   -> Comando:  | git push origim main |  (Envia o arquivo do terminal local para o Github)
+                   
